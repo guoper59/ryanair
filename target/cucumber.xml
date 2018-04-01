@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="112.178124">
+<testcase classname="Booking Payment" name="Booking up to a Decline payment on" time="112.178124">
+<system-out><![CDATA[Given I make a booking from DUB to MAD on 14/09/2018 for 2 adults and 1 child.passed
+When I pay for booking with card details 5555 5555 5555 5557, 10/2018 and 265.passed
+Then I should get payment declined message..................................passed
+]]></system-out>
+</testcase>
+</testsuite>
