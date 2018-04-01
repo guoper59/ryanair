@@ -22,7 +22,7 @@ Clone the repo:
 Git:
 ```
 $ git clone git@github.com:guoper59/ryanair.git
-
+```
 
 ## Running the tests
 
