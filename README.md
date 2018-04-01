@@ -8,7 +8,7 @@ Java(Maven, JUnit) - This is the language I have more experience and it is the p
 I worked also with Ruby with Watir and Parallel, Capibara,
 Jasmine and Chai, and I would be very happy to jump and learn Ruby on Rails and RSpec.
 I am always happy to learn and grow my skills.
-I like also Cucumber more human or more close to the business language always helps.
+I also like Cucumber and BDD is a human and closer to the business language.(Gherkin syntax)
 
 ### Prerequisites
 
@@ -35,9 +35,9 @@ Don't interact with the browser during tests executions
 
 ## Reporting
 
-*Example Generated Reports
+*Generated Reports
 
-    https://github.com/guoper59/ryanair/target/index.html
+    ./target/index.html
 
 
 ## Built With
