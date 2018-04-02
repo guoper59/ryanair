@@ -5,7 +5,7 @@ Automated booking up to a declined payment On
 ## Languages
 
 Java(Maven, JUnit) - This is the language I have more experience and it is the platform I am working right now.
-I worked also with Ruby with Watir and Parallel, Capibara,
+I worked also with Ruby with Watir, Parallel, Capybara,
 Jasmine and Chai, and I would be very happy to jump and learn Ruby on Rails and RSpec.
 I am always happy to learn and grow my skills.
 I also like Cucumber and BDD as a human and closer to the business language.(Gherkin syntax)
